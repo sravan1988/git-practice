@@ -2,3 +2,6 @@
 
 2nd input from local machine
 
+extending the pointer after CustomerA commit
+
+
